@@ -1,0 +1,49 @@
+Fonte: Painel CNJ
+URL: https://paineis.cnj.jus.br/QvAJAXZfc/opendoc.htm?document=qvw_l%5Cpainelcnj.qvw&host=QVS%40neodimio03&anonymous=true&sheet=shVDResumo (seção: indicadores)
+
+Indicadores usados e siglas:
+
+- cnc   : Casos novos de conhecimento
+- cncf  : Casos novos de conhecimento feminicídio
+- cnfpm : Casos novos de feminicídio por cem mil mulheres no estado
+- cpc   : Casos pendentes de conhecimento
+- cpcf  : Casos pendentes de conhecimento feminicídio
+- em    : Equipe multidisciplinar por vara
+- epi   : Execuções penais iniciadas
+- epif  : Execuções penais iniciadas feminicídio
+- epp   : Execuções penais pendentes
+- eppf  : Execuções penais pendentes feminicídio
+- gp    : Gabinetes privativos por vara
+- iad   : Índice de atendimento à demanda
+- inpm  : Inquéritos novos por cem mil mulheres no estado
+- ipa   : Inquéritos policiais arquivados
+- ipn   : Inquéritos policiais novos
+- ipp   : Inquéritos policiais pendentes
+- mp    : Medidas protetivas
+- mppm  : Medidas protetivas por cem mil mulheres no estado
+- ngp   : Número de gabinetes privativos
+- nm    : Número de mulheres no estado
+- nspe  : Número de setores psicossociais exclusivos
+- nspne : Número de setores psicossociais não-exclusivos
+- pbc   : Processos baixados de conhecimento
+- pbcf  : Processos baixados de conhecimento feminicídio
+- pbe   : Processos baixados de execução penal
+- pbef  : Processos baixados de execução penal feminicídio
+- qcnpm : Casos novos por cem mil mulheres no estado
+- qcnpv : Casos novos por vara
+- sc    : Sentenças de conhecimento
+- scf   : Sentenças de conhecimento feminicídio
+- sep   : Sentenças de execução penal
+- sepf  : Sentenças de execução penal feminicídio
+- smp   : Servidores psiquiatria
+- sss   : Servidores serviço social
+- scs   : Servidores ciências sociais
+- smc   : Servidores clínica geral
+- spe   : Servidores pedagogia
+- sps   : Servidores psicologia
+- spsne : Servidores psicologia em setores não-exclusivos
+- spepv : Setores psicossociais especializados por vara
+- sppv  : Setores psicossociais por vara
+- tc    : Taxa de congestionamento
+- ve    : Varas exclusivas
+
